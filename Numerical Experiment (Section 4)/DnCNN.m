@@ -2,12 +2,12 @@
 % Numerical experiments associated with the paper:
 % "Generalized Low-Tubal-Rank Tensor Approximation under the M-Product"
 %
-% Created by: Pablo Soto-Quiros
-%
 % This script:
 %   1. Loads the pre-trained DnCNN denoising network.
 %   2. Removes noise from an RGB image.
 %   3. Computes the average SSIM with respect to the source image.
+%
+% Created by: Pablo Soto-Quiros
 
 clc; clear; close all;
 

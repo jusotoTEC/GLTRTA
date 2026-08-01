@@ -50,6 +50,8 @@ function C=mprod(A,B,opt)
 %       - Requires MATLAB R2020b or later for PAGEMTIMES.
 %
 %   See also fft, ifft, dct, idct, pagemtimes.
+%
+%   Created by: Pablo Soto-Quiros
 
 
     [m1,n1,p1]=size(A);
