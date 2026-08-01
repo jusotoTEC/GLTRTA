@@ -1,4 +1,4 @@
-# MATLAB Code for Numerical Experiments in the Paper *"Generalized low-tubal-rank tensor approximation under the M-product"*
+# MATLAB Code for Numerical Experiments in the Paper *"Generalized low-tubal-rank tensor approximation under the $M$-product"*
 
 ## Author
 
