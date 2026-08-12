@@ -1,6 +1,5 @@
-%% Generalized Low-Tubal-Rank Tensor Approximation under the M-Product
 % Numerical Experiment 1: Real-Valued Tensors, associated with the paper:
-% "A Note on a Closed-Form Solution to the Generalized Low-Tubal-Rank Tensor Approximation Problem"
+% "A Closed-Form Solution for Generalized Low-Tubal-Rank Tensor Approximation"
 %
 % Created by: Pablo Soto-Quiros
 
