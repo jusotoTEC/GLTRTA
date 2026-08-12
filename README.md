@@ -1,4 +1,4 @@
-# MATLAB Code for Numerical Experiments in the Paper *"A Note on a Closed-Form Solution to the Generalized Low-Tubal-Rank Tensor Approximation Problem"*
+# MATLAB Code for Numerical Experiments in the Paper *"A Closed-Form Solution for Generalized Low-Tubal-Rank Tensor Approximation"*
 
 ## Author
 
@@ -9,8 +9,9 @@
 
 ## Description
 
-* This repository contains the MATLAB code for numerical experiments presented in the paper "*A Note on a Closed-Form Solution to the Generalized Low-Tubal-Rank Tensor Approximation Problem*".
+* This repository contains the MATLAB code for numerical experiments presented in the paper "*A Closed-Form Solution for Generalized Low-Tubal-Rank Tensor Approximation*".
 * This scientific paper is under review.
-* In this paper, we derive a closed-form solution to the generalized low-tubal-rank tensor approximation problem under the $M$-product framework. Unlike existing iterative approaches, the proposed solution is obtained analytically and provides an explicit construction of an optimal low-tubal-rank approximation. We also derive a closed-form expression for the minimum approximation error. These results extend the generalized low-rank matrix approximation problem to third-order tensors and provide an analytical criterion for selecting the tubal rank.
+* In this paper, we derive a closed-form solution to the generalized low-tubal-rank tensor approximation (GLTRTA) problem under the $M$-product framework, assuming that the transform matrix is scaled unitary. By reducing the tensor problem in the transform domain to a collection of generalized low-rank matrix approximation problems, we obtain an explicit construction of an optimal low-tubal-rank tensor approximation. We also derive a closed-form expression for the minimum approximation error, which provides an analytical criterion for selecting the prescribed tubal rank. These results extend the closed-form solution and minimum-error characterization of the generalized low-rank matrix approximation problem to third-order tensors. Numerical experiments illustrate the theoretical results and demonstrate the applicability of the proposed framework to image reconstruction.
+
 
 <p align="center"><img scale=1 src="https://github.com/jusotoTEC/GLTRTA/blob/main/img/img1.png"></p>
