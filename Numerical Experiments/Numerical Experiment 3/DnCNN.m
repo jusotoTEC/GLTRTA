@@ -1,6 +1,6 @@
-%% DnCNN Image Denoising
-% Numerical experiments associated with the paper:
-% "Generalized Low-Tubal-Rank Tensor Approximation under the M-Product"
+% Numerical Experiment 3: Application to image reconstruction, associated with the paper:
+% "A Closed-Form Solution for Generalized Low-Tubal-Rank Tensor Approximation"
+% DnCNN Image Denoising
 %
 % Created by: Pablo Soto-Quiros
 %
